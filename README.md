@@ -7,3 +7,7 @@ See https://rubin-sim.lsst.io
 See my repo LSST-BD-Cadence for the original calculations which 
 were published in Gizis et al., 2022, ApJS, 263, 23
 https://ui.adsabs.harvard.edu/abs/2022ApJS..263...23G/abstract
+
+April 2026: Add various 5.2 opsim runs.  
+
+
